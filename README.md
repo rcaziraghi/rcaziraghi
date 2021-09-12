@@ -4,8 +4,8 @@ My name is Rafael Caziraghi and I'm a SAP developer. I'm working currently on SA
 
 <!-- Icons -->
 
-[1.2]: https://github.com/rcaziraghi/rcaziraghi/img/twitter.png?raw=true
-[2.2]: https://github.com/rcaziraghi/rcaziraghi/img/linkedin.png?raw=true
+[1.2]: https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg
+[2.2]: https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg
 
 <!-- Links to your social media accounts -->
 
