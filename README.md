@@ -4,8 +4,8 @@ My name is Rafael Caziraghi and I'm a SAP developer. I'm working currently on SA
 
 <!-- Icons -->
 
-[1.2]: https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true
-[2.2]: https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true
+[1.2]: https://github.com/rcaziraghi/rcaziraghi/img/twitter.png?raw=true
+[2.2]: https://github.com/rcaziraghi/rcaziraghi/img/linkedin.png?raw=true
 
 <!-- Links to your social media accounts -->
 
@@ -37,20 +37,3 @@ Meu nome é Rafael Caziraghi e sou desenvolvedor SAP. No momento estou desenvolv
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rcaziraghi&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
 </p> 
-
-
-
-<!--
-**rcaziraghi/rcaziraghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
