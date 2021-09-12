@@ -1,18 +1,21 @@
 ## Hi there 👋
 
-My name is Rafael Caziraghi and I'm a SAP developer. I'm working currently on SAP Fiori apps (SAPUI5/OpenUI5/RAP/Elements using Gateway/CDS on ABAP/HANA environments). I live in Brazil and currently working at Deloitte. You can reach me at on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+[![Updated Badge](https://badges.pufler.dev/updated/rcaziraghi/rcaziraghi)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/rcaziraghi)](https://badges.pufler.dev)
 
-<!-- Icons -->
+My name is Rafael Caziraghi and I'm a SAP developer. I'm working currently on SAP Fiori apps (SAPUI5/OpenUI5/RAP/Elements using Gateway/CDS on ABAP/HANA environments). I live in Brazil and currently working at Deloitte. 
 
-[1.2]: https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg
-[2.2]: https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg
+Meu nome é Rafael Caziraghi e sou desenvolvedor SAP. No momento estou desenvolvendo aplicativos Fiori (SAPUI5/OpenUI5/RAP/Elements usando Gateway/CDS em ambientes ABAP/HANA). Eu moro no Brasil e trabalho na Deloitte.
 
-<!-- Links to your social media accounts -->
+## Connect with me
 
-[1]: https://twitter.com/rcaziraghi
-[2]: https://www.linkedin.com/in/rcaziraghi/
+<a href="https://twitter.com/rcaziraghi">
+  <img width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+</a>
 
-Meu nome é Rafael Caziraghi e sou desenvolvedor SAP. No momento estou desenvolvendo aplicativos Fiori (SAPUI5/OpenUI5/RAP/Elements usando Gateway/CDS em ambientes ABAP/HANA). Eu moro no Brasil e trabalho na Deloitte. Meus contatos: [![Twitter][1.2]][1] ou [![LinkedIn][2.2]][2].
+<a href="https://www.linkedin.com/in/rcaziraghi/">
+  <img width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
 
 ## SAP Community Activity
 <p align = "center">
