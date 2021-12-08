@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[![Updated Badge](https://badges.pufler.dev/updated/rcaziraghi/rcaziraghi)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/rcaziraghi)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/rcaziraghi)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/rcaziraghi)](https://badges.pufler.dev)
 
 My name is Rafael Caziraghi and I'm a SAP developer. I'm working currently on SAP Fiori apps (SAPUI5/OpenUI5/RAP/Elements using Gateway/CDS on ABAP/HANA environments). I live in Brazil and currently working at Deloitte. 
 
