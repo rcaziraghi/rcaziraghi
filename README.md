@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-[![Years Badge](https://badges.pufler.dev/years/rcaziraghi)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/rcaziraghi)](https://badges.pufler.dev)
+My name is Rafael Caziraghi and I'm a SAP developer. I'm working currently on SAP Fiori apps (SAPUI5/OpenUI5/RAP/Elements using Gateway/CDS on ABAP/HANA environments). 
 
-My name is Rafael Caziraghi and I'm a SAP developer. I'm working currently on SAP Fiori apps (SAPUI5/OpenUI5/RAP/Elements using Gateway/CDS on ABAP/HANA environments). I live in Brazil and currently working at Deloitte. 
-
-Meu nome é Rafael Caziraghi e sou desenvolvedor SAP. No momento estou desenvolvendo aplicativos Fiori (SAPUI5/OpenUI5/RAP/Elements usando Gateway/CDS em ambientes ABAP/HANA). Eu moro no Brasil e trabalho na Deloitte.
+Meu nome é Rafael Caziraghi e sou desenvolvedor SAP. No momento estou desenvolvendo aplicativos Fiori (SAPUI5/OpenUI5/RAP/Elements usando Gateway/CDS em ambientes ABAP/HANA).
 
 ## Connect with me
 
