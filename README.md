@@ -14,16 +14,6 @@ Meu nome é Rafael Caziraghi e sou desenvolvedor SAP. No momento estou desenvolv
   <img width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 
-## SAP Community Activity
-<p align = "center">
-<a href="https://people.sap.com/rcaziraghi#overview">
-  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/rcaziraghi" />
-</a>
-<a href="https://people.sap.com/rcaziraghi#reputation">
-  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/rcaziraghi" />
-</a>
-</p>
-
 ## GitHub Statistics
 <p align = "center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
